@@ -28,7 +28,7 @@
         <strong>Node.js</strong>,
         <strong>Flutter</strong>,
         <strong>Docker</strong>,
-        <strong>Bash</strong>,
+        <strong>Bash</strong>
     </li>
 </ul>
 
