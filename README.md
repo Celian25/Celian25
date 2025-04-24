@@ -1,13 +1,12 @@
-<div>
-<h1 align="center">Hello there 👋</h1>
-<h2 align="center">I'm a web developer & tech explorer 🚀</h2>
+<h1>Hello there 👋</h1>
+<h2>I'm a web developer & tech explorer 🚀</h2>
 
 <p align="center">
   <a href="https://t.me/celian25" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-</div>
+
 ---
 
 ### 🔧 My Tech Toolkit
