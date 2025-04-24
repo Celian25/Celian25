@@ -1,12 +1,13 @@
+<div>
 <h1 align="center">Hello there 👋</h1>
-<h2 align="center">A web developer & tech explorer 🚀</h2>
+<h2 align="center">I'm a web developer & tech explorer 🚀</h2>
 
 <p align="center">
   <a href="https://t.me/celian25" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
+</div>
 ---
 
 ### 🔧 My Tech Toolkit
@@ -46,7 +47,3 @@
 </p>
 
 ---
-<!---
-Celian25/Celian25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
